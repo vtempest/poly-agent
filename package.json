@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@langchain/groq": "^1.0.3",
     "drizzle-orm": "^0.45.1",
-    "grab-url": "^1.0.18"
+    "grab-url": "^1.0.18",
+    "tavily": "^1.0.2"
   }
 }
